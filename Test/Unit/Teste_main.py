@@ -1,6 +1,10 @@
 import pytest
 
 from main import somar_dois_numeros, subtrair_dois_numeros, dividir_dois_numeros, multiplicar_dois_numeros, \
+    elevar_um_numero_pelo_outro, calcular_a_area_do_quadrado, calcular_a_area_do_triangulo, calcular_a_area_do_circulo, \
+    calcular_a_area_do_retangulo
+
+somar_dois_numeros, subtrair_dois_numeros, dividir_dois_numeros, multiplicar_dois_numeros, \
     elevar_um_numero_pelo_outro, calcular_a_area_do_quadrado, calcular_a_area_do_retangulo, \
     calcular_a_area_do_triangulo, calcular_a_area_do_circulo
 
@@ -72,5 +76,3 @@ def testar_calcular_a_area_do_circulo():
     resultado_esperado = 3.14
     resultado_atual = calcular_a_area_do_circulo(raio)
     assert resultado_atual == resultado_esperado
-
-#Oi

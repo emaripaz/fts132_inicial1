@@ -59,7 +59,7 @@ if __name__ == '__main__':
     area_do_triangulo = calcular_a_area_do_triangulo(5, 2)
     print(f'A área do triângulo é {area_do_triangulo}')
 
-
+'''
 def testar_somar_dois_numeros ():
     num1 = 6
     num2 = 2
@@ -114,5 +114,4 @@ def testar_calcular_a_area_do_triangulo ():
     resultado_esperado = 5
     resltado_atual = calcular_a_area_do_triangulo(num1, num2)
     assert resltado_atual == resultado_esperado
-
-#oi
+'''
