@@ -116,3 +116,5 @@ def testar_calcular_a_area_do_triangulo ():
     resltado_atual = calcular_a_area_do_triangulo(num1, num2)
     assert resltado_atual == resultado_esperado
 '''
+
+#ok
