@@ -84,6 +84,7 @@ def testar_dividir_dois_numeros ():
 def testar_multiplicar_dois_numeros():
     num1 = 6
     num2 = 2
+    #teste
     resultado_esperado = 12
     resultado_atual = multiplicar_dois_numeros(num1, num2)
     assert resultado_atual == resultado_esperado
