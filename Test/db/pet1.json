@@ -1,0 +1,18 @@
+{
+  "id": 45760,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "doggie",
+  "photoUrls": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLrTlKc4a8f3N_MXlTZyV8f_l7u2YChK4qg&usqp=CAU"
+  ],
+  "tags": [
+    {
+      "id": 9,
+      "name": "vacinado"
+    }
+  ],
+  "status": "available"
+}
